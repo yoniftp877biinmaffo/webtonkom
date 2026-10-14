@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Small Apps By Themefisher
 Small Apps is a clean and modern Free responsive app landing-page template for Mobile App. Built with Bootstrap 4.x frontend Framework. The codebase is well organized, very easy to customize, and SEO optimized.
 
@@ -101,3 +102,6 @@ Some third-party plugins that we used to build this template. Please check their
 * **Fancybox**: http://fancyapps.com/fancybox/
 * **Slick**: https://kenwheeler.github.io/slick/
 * **SyoTimer**: http://syomochkin.xyz/folio/syotimer/demo.html
+=======
+# webtonkom
+>>>>>>> 3146995fbb1333f4c795040a66135bbb88e52807
